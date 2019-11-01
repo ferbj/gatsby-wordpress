@@ -27,7 +27,7 @@
     "ree-validate": "^3.0.2",
     "simple-react-validator": "^1.0.7",
     "styled-components": "^4.2.0",
-    "super-easy-react-forms": "^1.0.4"
+    "super-easy-react-forms": "^1.0.4" 
   },
   "devDependencies": {
     "prettier": "^1.17.0"
